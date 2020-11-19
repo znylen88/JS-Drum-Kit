@@ -1,5 +1,5 @@
 # JS-Drum-Kit
-Simple Keyboard Drumset Using JavaScript
+## Simple Keyboard Drumset Using JavaScript
 
 https://znylen88.github.io/JS-Drum-Kit/
 
